@@ -1,0 +1,23 @@
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\bin\Debug\Inches and Pixels Main.exe.config
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\bin\Debug\Inches and Pixels Main.exe
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\bin\Debug\Inches and Pixels Main.pdb
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\bin\Debug\Inches and Pixels Main.xml
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches and Pixels Main.vbproj.AssemblyReference.cache
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches and Pixels Main.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.Form1.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.Form2.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.Resources.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches and Pixels Main.vbproj.GenerateResource.cache
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches and Pixels Main.vbproj.CoreCompileInputs.cache
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches and Pixels Main.exe
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches and Pixels Main.xml
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches and Pixels Main.pdb
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.invalidAccount.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.welcomeUser.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.loadingUser.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.welcomeAdmin.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.loadingAdmin.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.userPanel.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.adminPanel.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.thankYouPage.resources
+C:\Users\Dela Cruz\Desktop\CODING FILES\vb.net\Inches and Pixels Main\obj\Debug\Inches_and_Pixels_Main.comeAgain.resources
